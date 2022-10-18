@@ -1,0 +1,11 @@
+name: cadet
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - jupyterlab
+  - cadet
+  - pip
+  - pip:
+    - cadet-process
+
