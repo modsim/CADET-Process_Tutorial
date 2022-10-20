@@ -27,7 +27,7 @@ For this purpuse, make sure, [git](https://git-scm.com/downloads) is installed.
 
 From a `git bash` navigate to to where you want to store the tutorials and run
 ```
-git clone https://github.com/modsim/CADET-Tutorial
+git clone https://github.com/modsim/CADET-Process_Tutorial
 ```
 
 Then, from an `Anaconda Prompt`, `cd` into the directory and install all the requirements by running
