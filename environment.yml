@@ -1,9 +1,11 @@
-name: cadet
+name: cadet_workshop
 channels:
   - conda-forge
 dependencies:
-  - python=3.9
+  - python=3.10
   - jupyterlab
+  - jupyter
+  - ipympl
   - cadet
   - pip
   - pip:
